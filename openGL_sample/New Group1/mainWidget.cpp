@@ -40,7 +40,6 @@
 //}
 //
 //void mainWidget::CreateSphere(double R, double H, double K, double Z, VERTICES VERTEX[]) {
-//    int n;
 //    double a;
 //    double b;
 //    n = 0;
